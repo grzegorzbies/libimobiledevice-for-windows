@@ -115,6 +115,3 @@ Files are in the directory **C:\msys64\usr\local\bin**
 
 ## Inspiration
 Project based on https://github.com/libimobiledevice/libimobiledevice
-
-## Contact
-Created by Grzegorz Bieś [g.bies@poczta.fm, grzegorzbies75@gmail.com]
